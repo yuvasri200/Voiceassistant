@@ -1,4 +1,4 @@
-# 🎤 Android Fun Voice Assistant App
+# 🎤 Android Voice Assistant App
 
 A simple Android Voice Assistant App developed using **Java** and **Android Studio**.  
 This app listens to voice commands and responds with greetings, jokes, and actions like opening apps.
